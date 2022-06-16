@@ -1,2 +1,2 @@
 # middle-earth
-O meu blog com biografia ideologias pensamentos e por ai vai.
+Search engine built to combat desinformation
